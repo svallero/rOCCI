@@ -1,0 +1,9 @@
+# EGI Applications Database (http://appdb.egi.eu/)
+# EGI Community repository (http://repository.egi.eu/community/)
+# POA ID:144
+# Created: 2017-11-06 16:09:31 EEST
+[rocci.server-sl-6-x86_64]
+name=Repository for rocci.server (o/s: sl6 arch: x86_64)
+baseurl=http://repository.egi.eu/community/software/rocci.server/1.1.x/releases/sl/6/x86_64/RPMS/
+enabled=1
+gpgcheck=0
